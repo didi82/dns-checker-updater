@@ -122,6 +122,7 @@ Add to crontab for periodic checks (example: every 5 minutes):
 - Always **backup** your zone files before modification  
 - Monitor both **script output** and **DNS resolution** after implementation  
 - Ensure the script has permission to **read/write zone files** and **restart BIND**  
+- Remember to update the Zone Template file after modifying a record in the BIND DNS zone file.
 
 ---
 
