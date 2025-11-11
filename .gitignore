@@ -1,0 +1,10 @@
+.idea/*
+__pycache__/
+*.pyc
+*.log
+*.bak
+*.tmp
+.env
+config.ini
+current_ips.txt
+previous_ips.txt
