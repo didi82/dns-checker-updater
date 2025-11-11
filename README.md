@@ -35,6 +35,7 @@ Always:
 - Maintain proper **zone backups**  
 - Run this script only on the **Master DNS server**
 
+**This script is not for you if your CNAME points to a fixed IP address.**
 ---
 
 ## Requirements
